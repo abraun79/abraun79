@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Alessandro Braun
-- 👀 I’m interested in tecnologic, games...etc
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in computing, tecnologic, games...etc
+- 🌱 I’m currently learning shell script...
+- 💞️ I’m looking to collaborate on with my task automation script in Linux environment.
+- 📫 How to reach me,via email: ablenda@gmail.com.
 
-<!---
-abraun79/abraun79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
